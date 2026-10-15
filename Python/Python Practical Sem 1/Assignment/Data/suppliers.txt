@@ -1,0 +1,4 @@
+Supplier Name: Justin, Supplier ID: 1, Contact Details: 123
+Supplier Name: Marcus, Supplier ID: 2, Contact Details: 456
+Supplier Name: Logan, Supplier ID: 1, Contact Details: 123-456-789
+Supplier Name: Logan, Supplier ID: 10, Contact Details: 123-456-789

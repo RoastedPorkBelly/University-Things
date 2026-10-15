@@ -1,0 +1,5 @@
+oranges, 1000, $1000.0
+apples, 500, $1000.0
+pears, 20, $200.00
+blueberries, 500, $300.0
+guava, 200, $200.0

@@ -1,0 +1,5 @@
+Product ID: 5, Order ID: 10, Quantity Ordered: 10, Time Ordered: 2024-12-29 14:46:52 
+Product ID: 5, Order ID: 11, Quantity Ordered: 80, Time Ordered: 2024-12-29 14:48:15 
+Product ID: 6, Order ID: 6, Quantity Ordered: 100, Time Ordered: 2024-12-29 15:34:59 
+Product ID: 1, Order ID: 2, Quantity Ordered: 300, Time Ordered: 2024-12-29 15:39:09 
+Product ID: 7, Order ID: 20, Quantity Ordered: 100, Time Ordered: 2024-12-29 22:46:06 

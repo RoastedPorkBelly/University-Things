@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(python \"Lab 00.py\")",
+      "Bash(/c/Users/heyit/AppData/Local/Programs/Python/Python312/python.exe -m pip install numpy pandas matplotlib scikit-learn)",
+      "Bash(/c/Python314/python.exe -c \"import numpy; print\\('numpy', numpy.__version__\\)\")",
+      "Bash(/c/Python314/python.exe -c \"import sys; print\\('\\\\n'.join\\(sys.path\\)\\)\")",
+      "Bash(/c/Python314/python.exe -m pip install numpy pandas matplotlib scikit-learn)",
+      "Bash(/c/Python314/python.exe -c \"import site; print\\('USER_SITE enabled:', site.ENABLE_USER_SITE\\); print\\('USER_SITE:', site.getusersitepackages\\(\\)\\)\")",
+      "Read(//c/Python314/**)",
+      "Bash(ls /c/Python314/*.pth /c/Python314/*.cfg 2>/dev/null)",
+      "Bash(/c/Python314/python.exe -m pip install numpy pandas matplotlib scikit-learn --target \"C:/Python314/Lib/site-packages\")",
+      "Bash(python Lab07.py)",
+      "Bash(python Lab08.py)",
+      "Bash(python Lab09.py)",
+      "Bash(python Lab09b.py)",
+      "Bash(python Lab09c.py)"
+    ]
+  }
+}

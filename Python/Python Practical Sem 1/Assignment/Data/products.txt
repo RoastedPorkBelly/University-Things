@@ -1,0 +1,7 @@
+APPLES, 520, $100.00, Product ID: 1
+ORANGES, 310, $100.00, Product ID: 2
+BLUEBERRIES, 90, $70.00, Product ID: 3
+GUAVA, 500, $5.00, Product ID: 4
+PEAR, 100, $10.00, Product ID: 5
+MANGO, 300, $20.00, Product ID: 6
+STRAWBERRIES, 300, $20.00, Product ID: 7
